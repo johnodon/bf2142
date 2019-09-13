@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "---BF2 Check---"
+echo "---BF2142 Check---"
 cd /serverfiles
 if [ ! -f "/serverfiles/bf2142-linuxded-1.10.112.0-installer.rar" ]; then
     echo "---BF2142 source not found, downloading!---"
